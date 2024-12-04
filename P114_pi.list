@@ -1,4 +1,4 @@
-#name         first              email                                  PID_A            PID_B              instr       A [hr]     [hr]    # comments
+#name         first              email                                  PID_1            PID_1              instr       A [hr]     [hr]    # comments
 #                                                                                                                      Cat-A     total   # total is the time asked for in the proposal
 RAU           Arne               a.rau@mpe.mpg.de                 0113.A-3003(A)  114.27S7.001              GROND      112.0     112.0   #  10% of all time= 1620.1 h 
 DEMIANENKO    Mariia             demianenko@@mpia.de              114.27SY.001    000.0000.000              GROND       38.0      38.0   # 19 * 2 h   
