@@ -1,10 +1,10 @@
-#name         first              email                                  PID_1            PID_1              instr       A [hr]     [hr]    # comments
+#name         first              email                                  PID_A            PID_B              instr       A [hr]     [hr]    # comments
 #                                                                                                                      Cat-A     total   # total is the time asked for in the proposal
 RAU           Arne               a.rau@mpe.mpg.de                 0113.A-3003(A)  114.27S7.001              GROND      112.0     112.0   #  10% of all time= 1620.1 h 
 DEMIANENKO    Mariia             demianenko@@mpia.de              114.27SY.001    000.0000.000              GROND       38.0      38.0   # 19 * 2 h   
 WANG          Lingzhi            wanglingzhibnu@gmail.com         114.27SQ.001    000.0000.000              GROND       15.0      15.0   #  4 whole nights minus time for Suyu, Bañados
 SUYU          Sherry             suyu@mpa.mpg.de                  114.27ST.003    000.0000.000              GROND       10.0      10.0   #  time is not known
-RAU           Arne               a.rau@mpe.mpg.de                 114.27S9.001    114.24SB.001              FEROS        0.1       0.1   #
+RAU           Arne               a.rau@mpe.mpg.de                 114.27S9.001    114.24SB.001              FEROS        0.0       0.0   #
 MANCINI       Luigi              lmancini@roma2.infn.it           114.27SG.001    000.0000.000              FEROS        2.0       2.0   # amount for first DDT   
 SEEBURGER     Rhys               seeburger@mpia.de                114.27T7.001    000.0000.000              FEROS       30.0      60.0   # 
 VILLASEÑOR    Jaime              villasenor@mpia.de               114.27SV.001    000.0000.000              FEROS       46.0      92.0   #  
@@ -14,13 +14,14 @@ EL-BADRY      Kareem             kelbadry@mpia.de                 114.27SS.001  
 SHAHAF        Sahar              sahar.shahaf@weizmann.ac.il      114.27T5.001    000.0000.000              FEROS       25.0      50.0   # 
 MÜLLER-HORN   Johanna            mueller-horn@mpia.de             114.27SR.001    000.0000.000              FEROS       87.0     175.0   #
 LAUNHARDT     Ralf               rl@mpia.de                       114.27SE.001    113.26Y7.001              FEROS       40.0      80.0   #
-TRIVONOV      Trivon             trifonov@mpia.de                 114.27TE.001    000.0000.000              FEROS       58.0     173.0   #
+TRIFONOV      Trifon             trifonov@mpia.de                 114.27TE.001    000.0000.000              FEROS       58.0     173.0   #
 SEMENOV*      Dimitry            semenov@mpia.de                  114.27ww.000    000.0000.000              FEROS       14.0      14.0   # 16 * 52 min 
 STANKE        Thomas             tstanke@mpe.mpg.de               114.27SU.001    000.0000.000              WFI         36.0      36.0   # 
 NEUMANN       Justus             jneumann@mpia.de                 114.27T9.001    000.0000.000              WFI         21.0      41.0   #
+NEUMANN**     Justus             jneumann@mpia.de                 114.27T9.001    000.0000.000              WFI          1.0      1.0    # NGC628, DDT
 BANADOS       Eduardo            banados@mpia.de                  114.27SX.001    114.27SX.002              WFI         85.0      85.0   # 37 min every 2nd night and 31 min every 2nd night 91*31 min+56*31 min
-RAU           Arne               a.rau@mpe.mpg.de                 114.27S8.001    000.0000.000              WFI         50.0      50.0   # counts to the 10% of MPE time
-SUYU          Sherry             suyu@mpa.mpg.de                  114.27ST.001    114.27ST.002              WFI        162.0     162.0   # 10% of all time= 1620.1 h between nautical dusk
+RAU           Arne               a.rau@mpe.mpg.de                 114.27S8.001    000.0000.000              WFI         50.0      50.0   # 
+SUYU          Sherry             suyu@mpa.mpg.de                  114.27ST.001    114.27ST.002              WFI        162.0     162.0   # 10% of all time= 1620.1 h betwenn nautical dusk
 COSTA         Edgardo            costa@das.uchile.cl              114.27SK.001    114.27SK.002              FEROS       64.0      64.0   # 2* 5 nights (minus Suyu, Bañados and Rau), 34 h + 30 h 
 ROJAS         Felipe             firojas@uc.cl                    114.27SJ.001    000.0000.000              FEROS       22.0      22.0   # 3*6.0 h + 4.0 h
 MOYANO        Maximiliano        mmoyano@ucn.cl                   114.27SH.001    000.0000.000              FEROS       25.0      25.0   # 5*5.0 h 
