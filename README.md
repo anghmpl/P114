@@ -7,4 +7,4 @@ name,first_name,email,PID_1,PID_2,instr,A [hr],B [hr],comments (optional).
 
 It also writes 2 different versions of a *.csv file, containing all this information, in case you want to create your own visualisation.
 
-The script does not download any data, only provides a table with the amount of data available in the for each listed program and provides a table in pdf format.
+The script does not download any data, only provides a table with the amount of data available for each listed program and provides a table in pdf format.
